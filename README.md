@@ -12,6 +12,6 @@ An example of a dashboard created using R can be found here https://marcozaninit
 I am looking to collaborate on prediction projects.
 
 
-📫 You can reach me on Githbub, Research Gate https://www.researchgate.net/profile/Marco-Zanin or Twitter @Marco_Zanin_ 
+📫 You can reach me on Github, Research Gate https://www.researchgate.net/profile/Marco-Zanin or Twitter @Marco_Zanin_ 
 
 
