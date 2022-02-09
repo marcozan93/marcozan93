@@ -6,7 +6,7 @@ My interests include: research designs, data analysis, and statistical inference
 
 Most of my work has been done using R, but I am currently learning python 🐍.
 
-An example of a dashboard creeated using R can be found here https://marcozaninitaly.shinyapps.io/training_load_app/ and on my Github.
+An example of a dashboard created using R can be found here https://marcozaninitaly.shinyapps.io/training_load_app/ and on my Github.
 
 
 I am looking to collaborate on prediction projects.
