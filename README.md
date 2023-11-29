@@ -11,7 +11,7 @@ in Python here https://tennis-atp-app-mz.herokuapp.com/ (i.e., tennis players' p
 (Note: The dashboard published on Heroku is currently unavailable as a paid subscription has been introduced in winter 2022, I am aiming to publish the dashboard on GCP).
 
 
-Additionally, an end-to-end machine learning project can be viewing on this webpage https://myimage-lc3ojkzooa-ew.a.run.app/ hosted on GCP till November 2023.
+Additionally, an end-to-end machine learning project can be viewing on this webpage https://myimage-lc3ojkzooa-ew.a.run.app/ hosted on GCP.
 
 
 I am looking to collaborate on prediction projects in sport analytics.
