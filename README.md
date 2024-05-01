@@ -6,7 +6,7 @@ My interests include: research designs, data analysis, statistical inference usi
 
 Most of my work has been done using R and Python 🐍.
 
-Examples of dashboards created in R can be found here https://marcozaninitaly.shinyapps.io/training_load_app/ (i.e., rugby union training load monitoring dashboard) and 
+Examples of dashboards created in R can be found here https://marcozaninitaly.shinyapps.io/training_load_app/ (i.e., soccer training load/fatigue monitoring and analytics dashboard) and 
 in Python here https://tennis-atp-app-mz.herokuapp.com/ (i.e., tennis players' performance dashboard) with code on my Github.
 (Note: The dashboard published on Heroku is currently unavailable as a paid subscription has been introduced in winter 2022, I am aiming to publish the dashboard on GCP).
 
