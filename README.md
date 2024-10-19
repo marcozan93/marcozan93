@@ -1,6 +1,6 @@
 # Ciao!
 
-👋 Hi, my name is Marco Zanin, I am a researcher and I have worked as Data Analyst, Data Scientist and R Shiny Developer.
+👋 Hi, my name is Marco Zanin, I am a researcher and I have worked as Senior Data Analyst, Data Scientist and R Shiny Developer.
 
 My interests include: research designs, data analysis, statistical inference using the likelihood function, and sport analytics.
 
