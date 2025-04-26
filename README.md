@@ -1,23 +1,23 @@
 # Ciao!
 
-👋 Hi, my name is Marco Zanin, I am a researcher and I have worked as Senior Data Analyst, Data Scientist and R Shiny Developer.
+👋 Hi, my name is Marco Zanin, I have worked as Senior Data Analyst, Data Scientist and R Shiny Developer.
 
-My interests include: research designs, data analysis, statistical inference using the likelihood function, and sport analytics.
+My interests include: research designs, data analysis, databases, and sport analytics.
 
-Most of my work has been done using R and Python 🐍.
+Most of my work has been done using R, Python 🐍, and Java.
 
 Examples of dashboards created in R can be found here https://marcozaninitaly.shinyapps.io/training_load_app/ (i.e., soccer training load/fatigue monitoring and analytics dashboard) and 
 in Python here https://tennis-atp-app-mz.herokuapp.com/ (i.e., tennis players' performance dashboard) with code on my Github.
 (Note: The dashboard published on Heroku is currently unavailable as a paid subscription has been introduced in winter 2022, I am aiming to publish the dashboard on GCP).
 
 
-Additionally, an end-to-end machine learning project can be viewing on this webpage https://myimage-lc3ojkzooa-ew.a.run.app/ hosted on GCP.
+Additionally, an end-to-end machine learning project can be accessed at this webpage https://myimage-lc3ojkzooa-ew.a.run.app/ hosted on GCP.
 
 
-I am looking to collaborate on prediction projects in sport analytics.
+I am looking to collaborate on sport data analytics projects.
 
 
-📫 You can reach me on Github, Research Gate https://www.researchgate.net/profile/Marco-Zanin or Twitter @Marco_Zanin_ 
+📫 You can reach me on Github, ResearchGate https://www.researchgate.net/profile/Marco-Zanin or Twitter (X) @Marco_Zanin_ 
 
 
 ## Github stats
